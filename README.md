@@ -3,6 +3,6 @@ Open world tank battle with low-poly simple map, AI and advanced control system 
 
 
 
-* BT01 Intro
+* BT01 Intro.
 * BT02 GDD
 * BT03 Setting up GIT
