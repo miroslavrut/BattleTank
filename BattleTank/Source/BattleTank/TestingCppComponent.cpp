@@ -19,7 +19,7 @@ void UTestingCppComponent::BeginPlay()
 {
 	Super::BeginPlay();
 
-	UE_LOG(LogTemp, Warning, TEXT("RADI LI OVOOO"));
+	UE_LOG(LogTemp, Warning, TEXT("RADI LI OVOOO ili pak ne"));
 	
 }
 
